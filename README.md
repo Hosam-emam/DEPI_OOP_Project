@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56eed5ed-df7a-4ac9-a566-d3bb7863be28)# ***Employee Data Management System***
+# ***Employee Data Management System***
 
 ## **Table of contents**
 
