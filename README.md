@@ -130,3 +130,7 @@ Computes the next unique ID for a new employee.
 An integer representing the next ID.
 
 ### _**Terms_Of_Use**_
+
+- Follow the instructions Precisely be aware of the attributes' constraints and don't manually input data into the CSV file to ensure that the program executes swiftly.
+- If you have any questions or comments feel free to contact me right away.
+Thank you, Hosam Emam
