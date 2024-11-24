@@ -2,9 +2,9 @@
 
 ## **Table of contents**
 
-- [Overview](#Overview).
-- [Classes/Methods](#Classes/Methods).
-- [Terms Of Use](#Terms_Of_Use).
+- [Overview](#Overview)
+- [Classes/Methods](#Classes/Methods)
+- [Terms Of Use](#Terms_Of_Use)
 
 ### _**Overview**_
 
